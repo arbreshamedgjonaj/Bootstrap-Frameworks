@@ -10,6 +10,13 @@
     align-items: center;
 }
 
+.carousel-inner{
+    width: auto;
+    height: 500px;
+    display: flex;
+    justify-content: inherit;
+    
+}
 .container-fluid{
 
 }
